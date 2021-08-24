@@ -56,6 +56,16 @@ _13. La figura 13-34 muestra la corriente en una bobina. Si el voltaje de 0 a 2 
 
 ![image](https://user-images.githubusercontent.com/84418933/130641373-1f9d70ea-73ac-4a6c-9802-873e45e4110f.png)
 
+_15. La figura 13-36 muestra la grafica del voltaje en una inductancia. Los cambios en la corriente de 4 a 5 A durante el intervalo de tiempo de 4 a 5 s._
+
+![image](https://user-images.githubusercontent.com/85728185/130648350-0abe55ca-e800-488f-998d-74bd0ccbfe80.png)
+
+_a. ¿Que valor tiene L?_
+
+_b. Determine la forma de onda de la corriente y grafiquela._
+
+_c. ¿Cual es la corriente en t _ 10 s?_
+
 _19. Repita el problema 17 si las inductancias están conectadas en paralelo._
 _¿Cuál es la inductancia equivalente de 12, 14, 22, y 36 mH conectados en serie?_
 
