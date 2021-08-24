@@ -232,7 +232,11 @@ _19. Para la figura 14-43, L = 20 H. La corriente durante la fase de crecimiento
 
 ![image](https://user-images.githubusercontent.com/84418933/130642822-482be4bc-a0a5-4d63-97e5-ff5f46a03077.png)
 
-_25. a. Repita el problema 22, partes (a) y (b) para el circuito de la figura 14-47._ 
+_21. Para la bobina de la figura 14-45 R_ _ 1.7 _ y L _ 150 mH. Determine la corriente de la bobina en t _ 18.4 ms._
+
+![image](https://user-images.githubusercontent.com/85728185/130691412-c7ead987-3a75-43be-9773-7ef11c89e669.png)
+
+_25. una. Repita el problema 22, partes (a) y (b) para el circuito de la figura 14-47._ 
 
 _b. ¿Cuánto es il y VL en 1 = 25 ms?_
 
