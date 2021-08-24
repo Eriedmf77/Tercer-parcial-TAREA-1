@@ -74,6 +74,20 @@ _9. Calcule la inductancia de la bobina de nucleo de aire de la figura 13-31, si
 
 ![image](https://user-images.githubusercontent.com/85728185/130647922-96ad103c-c9aa-4b42-a51f-95f31db33914.png)
 
+_11. El inductor de núcleo de hierro de la ﬁgura 13-32 tiene un núcleo de alta permeabilidad. Por ello, por medio de la ley de Ampere, NI = HgLg. Debido aque el espacio de aire predomina, no ocurre la saturación y el ﬂujo del núcleo es proporcional a la corriente, es decir, el enlace de ﬂujo es igual a LI Adicionalmente, ya que todo el ﬂujo pasa a través de la bobina, el enlace de ﬂujo es igual a NΦ. Al igualar los dos valores del enlace de ﬂujo y con las ideas del capítulo 12, demuestre que la inductancia de la bobina es_
+
+![image](https://user-images.githubusercontent.com/85259801/130656945-7b7969b0-2246-4bec-87e7-5effdb68cb31.png)
+
+![image](https://user-images.githubusercontent.com/85259801/130656956-ce0ad4d5-452b-48f4-86c6-3bb436f8f1f3.png)
+
+![image](https://user-images.githubusercontent.com/85259801/130656959-8dcb7e17-9581-48ad-924c-791658f45afa.png)
+
+![image](https://user-images.githubusercontent.com/85259801/130656963-ac5e6a6c-d14b-4f2d-891d-d207f6c6900c.png)
+
+![image](https://user-images.githubusercontent.com/85259801/130656975-157ec94e-8e67-469f-826e-9b89ae474967.png)
+
+
+
 _13. La figura 13-34 muestra la corriente en una bobina. Si el voltaje de 0 a 2 ms es de 100 voltios, ¿qué valor tiene L? _
 
 ![image](https://user-images.githubusercontent.com/84418933/130641321-e2b707b2-6cec-4912-bde6-a2e184460be1.png)
