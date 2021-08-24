@@ -53,6 +53,19 @@ _3. El flujo que cambia a una tasa uniforme por 1 ms induce 60 V en una bobina. 
 
 ![image](https://user-images.githubusercontent.com/85728185/130646665-9eeeeb79-7029-4b06-b3b4-a5a3fea61dd3.png)
 
+**13.3 Autoinductancia**
+
+_5. La corriente en un inductor de 75 mH (ﬁgura 13-30) cambia uniformementepor 200 µA en 0.1 ms. ¿Cuál es el voltaje en él?_
+
+![image](https://user-images.githubusercontent.com/85259801/130655762-e307c5b7-5601-4aa9-8305-1c4e8c073afc.png)
+
+![image](https://user-images.githubusercontent.com/85259801/130655780-4db88883-001e-45c7-858a-2d490a23a4e3.png)
+
+![image](https://user-images.githubusercontent.com/85259801/130655789-933252db-e672-401d-afb8-33c498981fda.png)
+
+![image](https://user-images.githubusercontent.com/85259801/130655805-0849d672-a2af-4f6f-9137-2f4fb7696b20.png)
+
+
 _7. El voltaje inducido cuando la corriente cambia de forma uniforme de 3 a 5 amperes en un inductor de 10 H es de 180 volts. ¿Cuánto tiempo pasará para que la corriente cambie de 3 a 5 amperes?_
 
 ![image](https://user-images.githubusercontent.com/84418933/130641273-d42620cd-abcc-4057-81fd-adc5c6953591.png)
