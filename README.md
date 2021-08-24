@@ -248,6 +248,10 @@ _b. Cierre el interruptor y determine la ecuación para il y V. durante el creci
 
 ![image](https://user-images.githubusercontent.com/84418933/130643173-2eb50659-bb6f-4c26-88a5-e242105ad4e3.png)
 
+_27. Un circuito desconocido que contiene fuentes cd y resistores tiene un voltaje a circuito abierto de 45 volts. Cuando sus terminales de salida se ponen en corto, la corriente de cortocircuito es 0.15 A. Un interruptor, resistor e inductancia estan conectados (figura 14-48). Determine la corriente y el voltaje del inductor, 2.5 ms despues que el interruptor se ha cerrado._
+
+![image](https://user-images.githubusercontent.com/85728185/130691734-0e19a3be-6856-47fb-9c63-03abb1ee277e.png)
+
 
 ## 4.Video
 
