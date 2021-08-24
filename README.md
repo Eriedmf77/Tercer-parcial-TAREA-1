@@ -14,6 +14,8 @@
 
 _Analizar los concepos e identificar circuitos en serie-paralelo con la finalidad de resolver problemas y ejercicios._
 
+_Determinar los circuitos transitorios en el circuito RL explicando el funcionamiento de un inductor con una condición inicial de cero que tiene un circuito abierto cuando este está energizado_
+
 ***Objetivos Específicos***
 
 _Determinar correctamente las fórmulas de la ley de ohm para resolver el problema dado_
