@@ -18,7 +18,7 @@ _Analizar los concepos e identificar circuitos en serie-paralelo con la finalida
 
 _Determinar correctamente las fórmulas de la ley de ohm para resolver el problema dado_
 
-_Analizar los conceptos del capitulo 13 y 15 teorema de redes, capacitores y capacitancia para resolver los ejrecicios planteados
+_Analizar los conceptos del capitulo 13 y 15 teorema de redes, capacitores y capacitancia para resolver los ejrecicios planteados_
 
 _Identificar y aplicar los métodos de análisis de mallas y/o análisis de nodos que se encuentran en un circuito serie-paralelo_
 
