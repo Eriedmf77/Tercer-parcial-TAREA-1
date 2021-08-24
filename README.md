@@ -68,6 +68,43 @@ _31. Por medio de la combinación de elementos, reduzca cada uno de los circuito
 
 **Capítulo 14**
 
+_1. a. ¿A qué se parece un inductor que no conduce corriente en el instante que se acciona el interruptor?_
+
+_b. Para cada circuito de la figura 14-37, determine is y v inmediatamente después de que el interruptor se cierra._
+
+![image](https://user-images.githubusercontent.com/84418933/130642370-6d9a0f6d-4d2c-43b2-8d4c-9b2efe67b687.png)
+
+![image](https://user-images.githubusercontent.com/84418933/130642406-1c5df4da-4d50-40a7-a4c2-335fc4bb67a6.png)
+
+_7. Repita el problema 5 para el circuito de la figura 14-41 con L = 4 H._
+
+_a. ¿Cuál es la constante de tiempo del circuito?_ 
+
+_b. ¿Cuánto tiempo pasa hasta que la corriente alcanza su valor estable?_ 
+
+_c. Determine las ecuaciones para il y Vu_ 
+
+_d. Calcule los valores para il y via intervalos de una constante de tiempo desde 1 = 0 hasta 5 T._
+
+![image](https://user-images.githubusercontent.com/84418933/130642594-f8c80f87-2467-4b7a-9c77-591bbc8f0258.png)
+
+![image](https://user-images.githubusercontent.com/84418933/130642627-d33387e3-83d1-4eab-a77b-27426234ca75.png)
+
+_13. Para la figura 14-1(b), si vu = 40 e 2000 V y la corriente de estado estable es 10 mA, ¿cuáles son los valores de E, Ry L?_
+
+![image](https://user-images.githubusercontent.com/84418933/130642681-e24dce46-711e-4d39-af9b-94762a34c0a9.png)
+![image](https://user-images.githubusercontent.com/84418933/130642697-b130ba9e-8638-40a4-b857-30608252f60e.png)
+
+![image](https://user-images.githubusercontent.com/84418933/130642722-414148eb-5aa1-4dc9-bb06-2ec825cfc0a4.png)
+
+_19. Para la figura 14-43, L = 20 H. La corriente durante la fase de crecimiento y disminución se muestra en la figura 14-44. Determine Ri y R2._
+
+![image](https://user-images.githubusercontent.com/84418933/130642779-56f1418f-bc89-45e5-8e2e-ba12e1fb0670.png)
+![image](https://user-images.githubusercontent.com/84418933/130642793-3d9f6559-c673-4aa1-887f-2c23013663a6.png)
+
+![image](https://user-images.githubusercontent.com/84418933/130642822-482be4bc-a0a5-4d63-97e5-ff5f46a03077.png)
+
+
 ## 4.Video
 
 **Capítulo 13**
