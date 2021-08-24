@@ -176,7 +176,11 @@ _d. Calcule los valores para il y via intervalos de una constante de tiempo desd
 
 ![image](https://user-images.githubusercontent.com/84418933/130642627-d33387e3-83d1-4eab-a77b-27426234ca75.png)
 
-_13. Para la figura 14-1(b), si vu = 40 e 2000 V y la corriente de estado estable es 10 mA, ¿cuáles son los valores de E, Ry L?_
+_9. Cierre el interruptor en t _ 0 s y determine las ecuaciones para iL y vL para el circuito de la figura 14-42. Calcule iL y vL en t _ 3.4 ms._
+
+![image](https://user-images.githubusercontent.com/85728185/130689405-ef49a457-0c59-42bb-b15d-c7ebab8bd50e.png)
+
+_13. Para la figura 14-1 (b), si vu = 40 e 2000 V y la corriente de estado estable es 10 mA, ¿decisiones son los valores de E, Ry L? _
 
 ![image](https://user-images.githubusercontent.com/84418933/130642681-e24dce46-711e-4d39-af9b-94762a34c0a9.png)
 ![image](https://user-images.githubusercontent.com/84418933/130642697-b130ba9e-8638-40a4-b857-30608252f60e.png)
