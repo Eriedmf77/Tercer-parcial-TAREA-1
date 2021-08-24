@@ -38,6 +38,10 @@ _1. Si el flujo que enlaza una bobina de 75 vueltas (figura 13-29) cambia a la t
 
 ![image](https://user-images.githubusercontent.com/84418933/130641187-c1d42830-8c10-4e3c-98c0-fbc45ae3bc1d.png)
 
+_3. El flujo que cambia a una tasa uniforme por 1 ms induce 60 V en una bobina. ¿Cuál es el voltaje inducido si el mismo cambio de flujo ocurre en 0?01 s?_
+
+![image](https://user-images.githubusercontent.com/85728185/130646665-9eeeeb79-7029-4b06-b3b4-a5a3fea61dd3.png)
+
 _7. El voltaje inducido cuando la corriente cambia de forma uniforme de 3 a 5 amperes en un inductor de 10 H es de 180 volts. ¿Cuánto tiempo pasará para que la corriente cambie de 3 a 5 amperes?_
 
 ![image](https://user-images.githubusercontent.com/84418933/130641273-d42620cd-abcc-4057-81fd-adc5c6953591.png)
