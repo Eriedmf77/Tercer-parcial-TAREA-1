@@ -46,7 +46,11 @@ _7. El voltaje inducido cuando la corriente cambia de forma uniforme de 3 a 5 am
 
 ![image](https://user-images.githubusercontent.com/84418933/130641273-d42620cd-abcc-4057-81fd-adc5c6953591.png)
 
-_13. La figura 13-34 muestra la corriente en una bobina. Si el voltaje de 0 a 2 ms es de 100 volts, ¿qué valor tiene L?_
+_9. Calcule la inductancia de la bobina de nucleo de aire de la figura 13-31, si 20 cm, N _ 200 vueltas, y d _ 2 cm._
+
+![image](https://user-images.githubusercontent.com/85728185/130647922-96ad103c-c9aa-4b42-a51f-95f31db33914.png)
+
+_13. La figura 13-34 muestra la corriente en una bobina. Si el voltaje de 0 a 2 ms es de 100 voltios, ¿qué valor tiene L? _
 
 ![image](https://user-images.githubusercontent.com/84418933/130641321-e2b707b2-6cec-4912-bde6-a2e184460be1.png)
 
