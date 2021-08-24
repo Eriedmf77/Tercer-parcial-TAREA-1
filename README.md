@@ -211,6 +211,7 @@ _Realizando los ejercicios y comprendiendo los conceptos sabemos que la inductan
 
 _Podemos concluir que los circuitos inductivos funcionan al revés que los circuitos capacitivos_
 
+_ Mediante las inductancias podemos analizar todo el campo electromagnetico que puede generar una bobina o las bobinas ya sea que ests esten conectadas en serie o paralelo.__
 
 ## 6.Bibliografía 
 
