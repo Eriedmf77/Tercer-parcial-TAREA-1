@@ -134,7 +134,9 @@ https://youtu.be/g-IebavBVCc
 ## 5.Conclusiones
 _Realizando los ejercicios y comprendiendo los conceptos sabemos que la inductancia es la propiedad de los circuitos eléctricos por la cual se produce una fuerza, debido al paso de la corriente electica y a la variación del campo magnético._
 
- 
+_Podemos concluir que los circuitos inductivos funcionan al revés que los circuitos capacitivos_
+
+
 ## 6.Bibliografía 
 
 
