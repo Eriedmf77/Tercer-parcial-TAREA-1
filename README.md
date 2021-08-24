@@ -22,7 +22,10 @@ _Determinar correctamente las fórmulas de la ley de ohm para resolver el proble
 
 _Analizar los conceptos del capitulo 13 y 15 teorema de redes, capacitores y capacitancia para resolver los ejrecicios planteados_
 
-_Identificar y aplicar los métodos de análisis de mallas y/o análisis de nodos que se encuentran en un circuito serie-paralelo_
+_Analizar la inductancia y las configuraciones de los circuitos en serie y en paralelo calculando el voltaje y la corriente del inductor del variador  de estado estable._
+
+_Determinar los transitorios de voltaje y corriente en el circuito RL durante la fase de caída de corriente y voltaje._
+
 
 ## 2.Marco Teórico
 
