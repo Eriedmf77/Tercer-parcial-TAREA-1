@@ -18,9 +18,9 @@ _Determinar los circuitos transitorios en el circuito RL explicando el funcionam
 
 ***Objetivos Específicos***
 
-_Determinar correctamente las fórmulas de la ley de ohm para resolver el problema dado_
+_Determinar correctamente las fórmulas de la ley de Faraday para resolver el problema dado_
 
-_Analizar los conceptos del capitulo 13 y 15 teorema de redes, capacitores y capacitancia para resolver los ejrecicios planteados_
+_Analizar los conceptos del capitulo 13 y 14 inductancia electromagnética y transistorios inductivos_
 
 _Analizar la inductancia y las configuraciones de los circuitos en serie y en paralelo calculando el voltaje y la corriente del inductor del variador  de estado estable._
 
