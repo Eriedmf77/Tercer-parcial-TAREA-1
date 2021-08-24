@@ -143,6 +143,7 @@ _Torres, J. (2021, 22 junio). Inductancia. Lifeder. https://www.lifeder.com/indu
 
 _Fisicapractica. (s. f.). Transitorios en los circuitos RL - FisicaPractica.Com. Recuperado 24 de agosto de 2021, de https://www.fisicapractica.com/transitorios-rl.php_
 
+_Allan H. Robbins, W. C. (2008). Análisis de Circuitos: Teoría Y Práctica (Cuarta ed.). (2. Cengage Learning Latin America, Ed., & G. M. Hernández, Trad.)_
 
 
 
