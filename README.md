@@ -141,6 +141,8 @@ _Podemos concluir que los circuitos inductivos funcionan al revés que los circu
 
 _Torres, J. (2021, 22 junio). Inductancia. Lifeder. https://www.lifeder.com/inductancia/_
 
+_Fisicapractica. (s. f.). Transitorios en los circuitos RL - FisicaPractica.Com. Recuperado 24 de agosto de 2021, de https://www.fisicapractica.com/transitorios-rl.php_
+
 
 
 
