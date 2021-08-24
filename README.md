@@ -12,7 +12,7 @@
 ## 1.Objetivos
 ***Objetivo General***
 
-_Analizar los concepos e identificar circuitos en serie-paralelo con la finalidad de resolver problemas y ejercicios._
+_Analizar los concepos e identificar circuitos en serie-paralelo de inductancia con la finalidad de resolver problemas y ejercicios._
 
 _Determinar los circuitos transitorios en el circuito RL explicando el funcionamiento de un inductor con una condición inicial de cero que tiene un circuito abierto cuando este está energizado_
 
