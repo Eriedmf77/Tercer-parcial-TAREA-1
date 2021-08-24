@@ -139,7 +139,13 @@ _31. Por medio de la combinación de elementos, reduzca cada uno de los circuito
 ![image](https://user-images.githubusercontent.com/84418933/130641913-7fda021f-02eb-4e43-b695-1e9dd079472b.png)
 
 
-**Capítulo 14**
+**13-8 Energía almacenada por una inductancia**
+
+_33. Encuentre la energía almacenada en el inductor de la figura 13-44._
+
+![image](https://user-images.githubusercontent.com/85728185/130657101-aaf8fcea-6dd2-4d5f-8b42-bd93ffa29f5c.png)
+
+** Capítulo 14 **
 
 _1. a. ¿A qué se parece un inductor que no conduce corriente en el instante que se acciona el interruptor?_
 
