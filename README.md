@@ -71,6 +71,10 @@ _¿Cuál es la inductancia equivalente de 12, 14, 22, y 36 mH conectados en seri
 
 ![image](https://user-images.githubusercontent.com/84418933/130641496-7329bf10-4b58-4a34-97c4-f4cbf9f7fe79.png)
 
+_21. Determine LT para los circuitos de la figura 13-37._
+
+_![image](https://user-images.githubusercontent.com/85728185/130648978-c14de885-f63f-4509-b860-18e9503098db.png)
+
 _25. Para los circuitos de la figura 13-40, determine Lz y L._
 
 ![image](https://user-images.githubusercontent.com/84418933/130641770-46fb04f3-c1b9-4239-9ba2-e9862735ca4a.png)
