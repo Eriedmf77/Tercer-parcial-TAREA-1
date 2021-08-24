@@ -104,6 +104,13 @@ _b. Determine la forma de onda de la corriente y grafiquela._
 
 _c. ¿Cual es la corriente en t _ 10 s?_
 
+**13-5Inductancias en serie y en paralelo**
+
+_17. ¿Cuál es la inductancia equivalente de 12, 14, 22 y 36mH conectados enserie?_
+
+![image](https://user-images.githubusercontent.com/85259801/130657893-c6d9e79f-5f5b-4126-844b-363d655b362e.png)
+
+
 _19. Repita el problema 17 si las inductancias están conectadas en paralelo._
 _¿Cuál es la inductancia equivalente de 12, 14, 22, y 36 mH conectados en serie?_
 
