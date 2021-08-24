@@ -12,7 +12,7 @@
 ## 1.Objetivos
 ***Objetivo General***
 
-_Analizar los concepos e identificar circuitos en serie-paralelo con la finalidad de resolver problemas y ejercicios_
+_Analizar los concepos e identificar circuitos en serie-paralelo con la finalidad de resolver problemas y ejercicios._
 
 ***Objetivos Específicos***
 
