@@ -139,5 +139,8 @@ _Podemos concluir que los circuitos inductivos funcionan al revés que los circu
 
 ## 6.Bibliografía 
 
+_Torres, J. (2021, 22 junio). Inductancia. Lifeder. https://www.lifeder.com/inductancia/_
+
+
 
 
