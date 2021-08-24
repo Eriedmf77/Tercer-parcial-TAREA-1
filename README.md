@@ -104,6 +104,18 @@ _19. Para la figura 14-43, L = 20 H. La corriente durante la fase de crecimiento
 
 ![image](https://user-images.githubusercontent.com/84418933/130642822-482be4bc-a0a5-4d63-97e5-ff5f46a03077.png)
 
+_25. a. Repita el problema 22, partes (a) y (b) para el circuito de la figura 14-47._ 
+
+_b. ¿Cuánto es il y VL en 1 = 25 ms?_
+
+_a. ¿Cuál es la constante de tiempo del circuito energizado?_ 
+
+_b. Cierre el interruptor y determine la ecuación para il y V. durante el crecimiento de la corriente._
+
+![image](https://user-images.githubusercontent.com/84418933/130643138-1ffe1835-a6b5-43e2-be8f-491d6b1fa30c.png)
+
+![image](https://user-images.githubusercontent.com/84418933/130643173-2eb50659-bb6f-4c26-88a5-e242105ad4e3.png)
+
 
 ## 4.Video
 
