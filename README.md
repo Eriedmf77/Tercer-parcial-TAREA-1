@@ -79,6 +79,8 @@ _![image](https://user-images.githubusercontent.com/85728185/130648978-c14de885-
 
 ![image](https://user-images.githubusercontent.com/85728185/130650451-404499a2-7ae6-4184-9608-662e7aab36ee.png)
 
+![image](https://user-images.githubusercontent.com/85728185/130651172-ff9672ac-ceb7-4ba7-8395-24ca23ac9676.png)
+
 _25. Para los circuitos de la figura 13-40, determine Lz y L._
 
 ![image](https://user-images.githubusercontent.com/84418933/130641770-46fb04f3-c1b9-4239-9ba2-e9862735ca4a.png)
