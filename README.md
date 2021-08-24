@@ -95,6 +95,10 @@ _25. Para los circuitos de la figura 13-40, determine Lz y L._
 
 ![image](https://user-images.githubusercontent.com/84418933/130641803-3f6c7bf4-5a49-425b-90df-8da060e37845.png)
 
+_27. Dos inductancias de 6 y 4 H estan en conectadas en paralelo. Despues de que
+se agrega una tercera inductancia, LT _ 4 H. ¿Cual es el valor de la tercera inductancia y como esta conectada?_
+
+
 _31. Por medio de la combinación de elementos, reduzca cada uno de los circuitos de la figura 13-42 a su forma más simple._
 
 ![image](https://user-images.githubusercontent.com/84418933/130641868-c70daba0-67da-4cae-96a2-81ae99035c52.png)
