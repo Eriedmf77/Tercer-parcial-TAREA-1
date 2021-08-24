@@ -218,7 +218,7 @@ _Realizando los ejercicios y comprendiendo los conceptos sabemos que la inductan
 
 _Podemos concluir que los circuitos inductivos funcionan al revés que los circuitos capacitivos_
 
-_Mediante las inductancias podemos analizar todo el campo electromagnetico que puede generar una bobina o las bobinas ya sea que ests esten conectadas en serie o paralelo,  la inductancia depende de las características físicas del conductor y de la longitud del mismo. Si se enrolla un conductor, la inductancia aparece dentro del circuito electrico son muchas espiras se tendrá más inductancia que con pocas. Si a esto añadimos un núcleo de ferrita, aumentaremos considerablemente la inductancia viendolo desde un punto fisico al elemento.__
+_Mediante las inductancias podemos analizar todo el campo electromagnetico que puede generar una bobina o las bobinas ya sea que ests esten conectadas en serie o paralelo,  la inductancia depende de las características físicas del conductor y de la longitud del mismo. Si se enrolla un conductor, la inductancia aparece dentro del circuito electrico son muchas espiras se tendrá más inductancia que con pocas. Si a esto añadimos un núcleo de ferrita, aumentaremos considerablemente la inductancia viendolo desde un punto fisico al elemento._
 
 ## 6.Bibliografía 
 
