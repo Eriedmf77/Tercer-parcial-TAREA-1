@@ -187,6 +187,44 @@ _13. Para la figura 14-1 (b), si vu = 40 e 2000 V y la corriente de estado estab
 
 ![image](https://user-images.githubusercontent.com/84418933/130642722-414148eb-5aa1-4dc9-bb06-2ec825cfc0a4.png)
 
+_15. Para la figura 14-43, R1 _ 20 _, R2 _ 230 _ y L _ 0.5 H y la corriente del inductor ha alcanzado un valor estable de 5 A con el interruptor cerrado. En t _ 0 s, el interruptor se abre._
+
+![image](https://user-images.githubusercontent.com/85728185/130689685-a1a54d62-896f-4c47-9b12-7da54f330864.png)
+
+_a. ¿Cual es la constante de tiempo en la fase de disminucion?_
+
+![image](https://user-images.githubusercontent.com/85728185/130689870-9a38f9e6-5c6f-47f9-af82-3c4e41321e66.png)
+
+_b. Determine las ecuaciones para iL y vL._
+
+![image](https://user-images.githubusercontent.com/85728185/130689968-8be82263-755c-4427-b275-5016eed2f796.png)
+
+_c. Calcule los valores para iL y vL a intervalos de una constante de tiempo desde t _ 0 hasta 5 t._
+
+_Para t=0_
+
+![image](https://user-images.githubusercontent.com/85728185/130690632-39906692-99f4-44d8-9d33-29144e419dd5.png)
+
+_Para t=t_
+
+![image](https://user-images.githubusercontent.com/85728185/130690700-4293102d-754d-4ccc-b827-d1bff0e1cdb1.png)
+
+_Para t=2t_
+
+![image](https://user-images.githubusercontent.com/85728185/130690946-638751e6-fc15-4641-acf4-b821e05b794e.png)
+
+_Para t=3t_
+
+![image](https://user-images.githubusercontent.com/85728185/130690989-44748de3-bd27-401c-a911-bba264c43c43.png)
+
+_Para t=4t_
+
+![image](https://user-images.githubusercontent.com/85728185/130691048-76072284-3b3f-4bd2-add5-1c38faf8c197.png)
+
+_Para t=5t_
+
+![image](https://user-images.githubusercontent.com/85728185/130691106-69eb8547-ec4f-49f7-82e3-7b9bc1c2fedf.png)
+
 _19. Para la figura 14-43, L = 20 H. La corriente durante la fase de crecimiento y disminución se muestra en la figura 14-44. Determine Ri y R2._
 
 ![image](https://user-images.githubusercontent.com/84418933/130642779-56f1418f-bc89-45e5-8e2e-ba12e1fb0670.png)
